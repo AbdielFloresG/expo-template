@@ -1,0 +1,7 @@
+node_modules/
+package.json
+.expo/
+app.json
+babel.config.js
+tsconfig.json
+yarn.lock
